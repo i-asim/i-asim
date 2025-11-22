@@ -13,9 +13,9 @@
 <br/>
 
 <div align="center">
- 🔭 Always working on **scalable, client‑centric web platforms**  
- 🌱 Currently exploring **Next.js, GSAP animations, and modular workflows**  
- ⚡ Passionate about **UI/UX optimization & reusable solutions**  
+ 🔭 Always working on scalable, client‑centric web platforms  <br>
+ 🌱 Currently exploring Next.js, GSAP animations, and modular workflows  <br>
+ ⚡ Passionate about UI/UX optimization & reusable solutions  
 </div>
 
 <br/>
@@ -47,6 +47,9 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![DrizzleORM](https://img.shields.io/badge/DrizzleORM-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-%23000000.svg?style=for-the-badge&logo=razorpay&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-%2320232a.svg?style=for-the-badge&logo=oauth&logoColor=white)
 
 </div>
 
