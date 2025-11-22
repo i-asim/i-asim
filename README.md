@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asim+:)" />
+</h1>
 
-<!--
-**i-asim/i-asim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 MERN Developer | Creative Director | Project Manager</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://linkedin.com/in/your-link" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:your.email@example.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="30" /></a>
+<a href="https://your-portfolio-link.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="portfolio" height="30" width="40" /></a>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 🔭 Always working on **scalable, client‑centric web platforms**  
+ 🌱 Currently exploring **Next.js, GSAP animations, and modular workflows**  
+ ⚡ Passionate about **UI/UX optimization & reusable solutions**  
+</div>
+
+<br/>
+
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<br/>
+<div align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=i-asim&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=i-asim&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-asim&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  🐍 Snake eating my contributions 🐍  
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+  Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅
+</div>
