@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asim+:)" />
 </h1>
 
-<h3 align="center">🚀 MERN Developer | Creative Director | Project Manager</h3>
+<h3 align="center">🚀 Web Developer | MERN | Traditional & Headless CMS </h3>
 
 <div align="center">
 <a href="https://linkedin.com/in/your-link" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
