@@ -5,9 +5,9 @@
 <h3 align="center">🚀 Web Developer | MERN | Traditional & Headless CMS </h3>
 
 <div align="center">
-<a href="https://linkedin.com/in/your-link" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="30" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/i-asim/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="mailto:aasimibr@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="30" /></a>
+<a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="portfolio" height="30" width="40" /></a>
 </div> 
 
 <br/>
