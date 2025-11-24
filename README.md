@@ -33,8 +33,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Payload](https://img.shields.io/badge/Payload-%23000000.svg?style=for-the-badge&logo=payloadcms&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396589D.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -47,9 +48,13 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![DrizzleORM](https://img.shields.io/badge/DrizzleORM-%23000000.svg?style=for-the-badge&logo=drizzle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-%23181717.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-%23EE672F.svg?style=for-the-badge&logo=magento&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-%23000000.svg?style=for-the-badge&logo=razorpay&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-%2320232a.svg?style=for-the-badge&logo=oauth&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 </div>
 
