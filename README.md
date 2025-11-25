@@ -67,11 +67,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=i-asim&theme=radical&border_radius=10" alt="GitHub Streak" />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=i-asim&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-asim&layout=compact&theme=radical&border_radius=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-asim&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-asim&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-asim&theme=radical" />
 </div>
+
 
 <br/><br/>
 
