@@ -70,6 +70,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-asim&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-asim&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-asim&theme=radical" />
+    <img src="https://streak-stats.demolab.com?user=i-asim&theme=radical&border_radius=10" alt="GitHub Streak" />
 </div>
 
 
