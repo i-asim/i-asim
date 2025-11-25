@@ -2,19 +2,25 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asim+:)" />
 </h1>
 
-<h3 align="center">🚀 Web Developer | MERN | Traditional & Headless CMS </h3>
+<h3 align="center">🚀 Web Developer | MERN | Traditional & Headless CMS</h3>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/asim-i/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:aasimibr@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="30" width="30" /></a>
-<a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="portfolio" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/asim-i/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:aasimibr@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="30" width="40" />
+  </a>
 </div> 
 
 <br/>
 
 <div align="center">
- 🔭 Always working on scalable, client‑centric web platforms  <br>
- 🌱 Currently exploring Next.js, GSAP animations, and modular workflows  <br>
+ 🔭 Building scalable, client‑centric web platforms <br>
+ 🌱 Exploring Next.js, GSAP animations & modular workflows <br>
  ⚡ Passionate about UI/UX optimization & reusable solutions  
 </div>
 
@@ -39,7 +45,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +60,6 @@
 ![OAuth](https://img.shields.io/badge/OAuth-%2320232a.svg?style=for-the-badge&logo=oauth&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
-
 </div>
 
 <br/>
@@ -65,8 +69,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=i-asim&theme=radical&border_radius=10" alt="GitHub Streak" />
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=i-asim&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-asim&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=i-asim&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=86400" alt="GitHub Stats" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-asim&layout=compact&theme=radical&border_radius=10&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <br/><br/>
@@ -74,11 +78,11 @@
 <div align="center">
   🐍 Snake eating my contributions 🐍  
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
 
 <div align="center">
-  Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅
+  ✨ Check out my repositories — show some ❤️ and maybe leave a ⭐ or two 😅
 </div>
