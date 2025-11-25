@@ -10,9 +10,9 @@
   </a>
   <a href="mailto:aasimibr@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="30" width="40" />
+  </a><br>
+  <a href="https://iasim.vercel.app/" target="_blank">
+   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" height="30" />
   </a>
 </div> 
 
